@@ -25,11 +25,11 @@ El análisis integra tres fuentes de datos (planes, usuarios y uso real del serv
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PARQUIM/connectatel-analysis2/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `notebooks/connectatel_analysis.ipynb`
+1. Abre `S7 Version-Estudiante-Project-ConnectaTel.ipynb`
 2. Ejecuta las celdas en orden, de arriba hacia abajo
 3. El notebook carga los tres datasets al inicio
 
